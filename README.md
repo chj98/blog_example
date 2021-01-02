@@ -57,10 +57,10 @@ console.log(env, foo)
 ```
 
 现在我们运行 npm run serve:
-![npm run serve](https://img-blog.csdnimg.cn/2021010221525727.png)
+![npm run serve](https://github.com/chj98/blog_example/blob/main/assets/imgs/blog_devenv.png?raw=true)
 
 现在我们运行 npm run build:
-![ npm run build](https://img-blog.csdnimg.cn/20210102215404576.png)
+![ npm run build](https://github.com/chj98/blog_example/blob/main/assets/imgs/blog_proenv.png?raw=true)
 
 
 可以看到相应的环境变量已经输出。以后的项目可以由此来判断真减条件、变更变量
